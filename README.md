@@ -1,3 +1,3 @@
 # Projetos em HTML
 
-Projetos básicos usilizando HTML
+Projetos básicos utilizando HTML
